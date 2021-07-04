@@ -1,1 +1,1 @@
-<%  response.sendRedirect("ayanamists.xyz"); %>
+<%  response.sendRedirect("https://ayanamists.xyz"); %>

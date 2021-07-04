@@ -1,1 +1,1 @@
-<%  %>
+response.sendRedirect("ayanamists.xyz"); 
